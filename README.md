@@ -1,2 +1,1 @@
-# Satyam-Singh
-Smart Parking System
+# smart Parking System
